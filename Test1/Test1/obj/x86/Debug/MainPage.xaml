@@ -13,7 +13,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="Assets/Capture.PNG"  Stretch="UniformToFill"/>
         </Grid.Background>
-        <Frame x:ConnectionId='1' Name="textBoxStatus" Width="20" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Rectangle x:ConnectionId='1' Name="textBoxStatus" Width="20" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
     </Grid>
 </Page>
 

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>942459ca-ab4d-4669-9e0f-7dbd54857d70</PackageIdentityName>
     <PackageIdentityPublisher>CN=Evan</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-04T12:35:41.825</Modified>
+      <Modified>2017-04-05T18:36:45.329</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Test1.exe">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Test1.exe">
       <PackagePath>entrypoint\Test1.exe</PackagePath>
-      <Modified>2017-04-04T12:35:41.656</Modified>
+      <Modified>2017-04-05T18:36:45.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Evan\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -452,75 +452,75 @@
       <PackagePath>FTD2XX_NET.dll</PackagePath>
       <Modified>2016-12-08T16:27:39.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Beep.wav">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Beep.wav">
       <PackagePath>Assets\Beep.wav</PackagePath>
       <Modified>2017-03-22T20:34:59.893</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Capture.PNG">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Capture.PNG">
       <PackagePath>Assets\Capture.PNG</PackagePath>
       <Modified>2017-03-22T19:38:54.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T22:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\temp.txt">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\temp.txt">
       <PackagePath>Assets\temp.txt</PackagePath>
       <Modified>2017-03-23T17:37:42.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Valid.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Valid.xml">
       <PackagePath>Assets\Valid.xml</PackagePath>
       <Modified>2017-03-23T17:47:26.486</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-03-22T18:18:20.272</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Test1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Test1.xr.xml">
       <PackagePath>Test1.xr.xml</PackagePath>
-      <Modified>2017-03-29T19:36:33.950</Modified>
+      <Modified>2017-04-05T18:35:28.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-03-22T18:16:41.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-03-29T19:36:34.381</Modified>
+      <Modified>2017-04-05T18:35:28.536</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Core\Test1.exe">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\Test1.exe">
       <PackagePath>Test1.exe</PackagePath>
-      <Modified>2017-04-04T12:35:41.822</Modified>
+      <Modified>2017-04-05T18:36:45.326</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

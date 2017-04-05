@@ -20,6 +20,7 @@ using Windows.UI.Popups;
 using System.Text;
 //using System.Xaml;
 using Windows.Data.Xml.Dom;
+using Windows.UI.Xaml.Media;
 
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
@@ -145,18 +146,24 @@ namespace Test1
             {
                 if (connected)
                 {
-                    textBoxStatus.Background = new SolidColorBrush(Color.FromArgb(0, 0, 255, 0));
+                    //textBoxStatus.Background = new SolidColorBrush(Color.FromArgb(0, 0, 255, 0));
+                    textBoxStatus.Width = 200;
                 }
                 else
                 {
-                   textBoxStatus.Background = new SolidColorBrush(Color.FromArgb(0, 255, 0, 0));
+
+                    //textBoxStatus.Foreground = new SolidColorBrush(Color.FromArgb(0, 0, 250, 0));
+                    //textBoxStatus.Fill = new SolidColorBrush(Color.FromArgb(0, 250, 0, 0));
+                    textBoxStatus.Fill = new SolidColorBrush(Color.FromArgb(250, 250, 0, 0));
+                    //textBoxStatus.Width = 200;
+                    //var dialog = new MessageDialog("Your message here");
+                    //dialog.ShowAsync().AsTask();
                 }
 
-                var dialog = new MessageDialog("Your message here");
-                dialog.ShowAsync().AsTask();
+                
 
             }
-            )).AsTask().RunSynchronously();
+            )).AsTask().Start();
         }
 
         public void PlaySound()

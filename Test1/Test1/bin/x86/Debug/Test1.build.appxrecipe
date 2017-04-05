@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>942459ca-ab4d-4669-9e0f-7dbd54857d70</PackageIdentityName>
     <PackageIdentityPublisher>CN=Evan</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Test1.exe">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Test1.exe">
       <PackagePath>entrypoint\Test1.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Evan\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -337,58 +337,58 @@
     <AppxPackagedFile Include="C:\Users\Evan\Desktop\FTD2XX_NET_v1.1.0\FTD2XX_NET.dll">
       <PackagePath>FTD2XX_NET.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Beep.wav">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Beep.wav">
       <PackagePath>Assets\Beep.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Capture.PNG">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Capture.PNG">
       <PackagePath>Assets\Capture.PNG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\temp.txt">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\temp.txt">
       <PackagePath>Assets\temp.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Assets\Valid.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Assets\Valid.xml">
       <PackagePath>Assets\Valid.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Test1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Test1.xr.xml">
       <PackagePath>Test1.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Evan\documents\visual studio 2015\Projects\Test1\Test1\bin\x86\Debug\Core\Test1.exe">
+    <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\Test1.exe">
       <PackagePath>Test1.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
