@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-05T18:36:45.329</Modified>
+      <Modified>2017-04-05T20:52:20.396</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Test1.exe">
       <PackagePath>entrypoint\Test1.exe</PackagePath>
-      <Modified>2017-04-05T18:36:45.162</Modified>
+      <Modified>2017-04-05T20:52:20.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Evan\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -520,7 +520,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Evan\Source\Repos\Test_1\Test1\Test1\bin\x86\Debug\Core\Test1.exe">
       <PackagePath>Test1.exe</PackagePath>
-      <Modified>2017-04-05T18:36:45.326</Modified>
+      <Modified>2017-04-05T20:52:20.390</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

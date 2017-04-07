@@ -148,6 +148,7 @@ namespace Test1
                 {
                     //textBoxStatus.Background = new SolidColorBrush(Color.FromArgb(0, 0, 255, 0));
                     textBoxStatus.Width = 200;
+                    textBoxStatus.Fill = new SolidColorBrush(Color.FromArgb(250, 0, 250, 0));
                 }
                 else
                 {
